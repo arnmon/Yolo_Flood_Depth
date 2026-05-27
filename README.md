@@ -1,7 +1,8 @@
 <img width="1913" height="532" alt="Screenshot_2026-05-27_16-42-25" src="https://github.com/user-attachments/assets/496679d1-a2db-4cc6-8ffe-7040b54a6a28" />
 
 YOLO:FLO is a data-efficient framework for flood-depth estimation from flood images. The proposed approach integrates computer-vision model, deep learning, machine learning, and modified few-shot learning. 
-Find the detailed annotated data on the Roboflow website inside FloodRepo (https://app.roboflow.com/arnab03-pbbfg/projects?group=fcY6ewqIM0TaE6rUzrNv).
+
+Find the detailed annotated data on the Roboflow website inside [FloodRepo](https://app.roboflow.com/arnab03-pbbfg/projects?group=fcY6ewqIM0TaE6rUzrNv).
 
 <img width="1171" height="820" alt="output_20260527_163849" src="https://github.com/user-attachments/assets/bc059925-c01d-4bfd-8f97-35546123819d" />
 
