@@ -15,6 +15,10 @@ This output shows multiple flood levels in the image. The final flood level of t
 
 The YOLO:FLO can annotate flood levels in [video](https://github.com/user-attachments/assets/0a884c9f-772f-4fb2-86ea-61b5f8565a91) and show the final level.
 
+Run this in the folder to open the YOLO:FLO app.
+
+streamlit run app.py
+
 
 
 
